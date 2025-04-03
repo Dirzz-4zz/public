@@ -1,4 +1,4 @@
-# public
+up# public
 Dir4zz
 <!DOCTYPE html>
 <html lang="id">
